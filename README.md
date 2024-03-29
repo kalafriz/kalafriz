@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently working on improving my web development skills and am learning how to make games in Unity!
 <!--
 **kalafriz/kalafriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
