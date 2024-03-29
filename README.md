@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+<a href="https://github.com/kalafriz?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=kalafriz&border_radius=2&card_width=496&background=90%2C93BDAE%2C334A49&border=253235&ring=304144&currStreakNum=253235&currStreakLabel=253235&stroke=304144&sideNums=253235&sideLabels=253235&dates=253235&fire=304144" alt="GitHub Streak" /></a>
+</p>
 
 I'm currently working on improving my web development skills and am learning how to make games in Unity!
 <!--
@@ -14,4 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+github stats theme permalink: https://github-readme-streak-stats.herokuapp.com/demo/?user=kalafriz&theme=default&hide_border=false&border_radius=2&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=496&type=svg&background-type=gradient&properties=excludeDaysLabel&background=90&background=%2393BDAE&background=%23334A49&border=%23253235&ring=%23304144&currStreakNum=%23253235&currStreakLabel=%23253235&stroke=%23304144&sideNums=%23253235&sideLabels=%23253235&dates=%23253235&fire=%23304144
+
 -->
