@@ -3,7 +3,7 @@
 <a href="https://github.com/kalafriz?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=kalafriz&border_radius=2&card_width=496&background=90%2C93BDAE%2C334A49&border=253235&ring=304144&currStreakNum=253235&currStreakLabel=253235&stroke=304144&sideNums=253235&sideLabels=253235&dates=253235&fire=304144" alt="GitHub Streak" /></a>
 </p>
 
-I'm currently working on improving my web development skills and am learning how to make games in Unity!
+Full-stack developer specializing in e-commerce solutions for creatives.
 <!--
 **kalafriz/kalafriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
